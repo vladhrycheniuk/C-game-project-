@@ -1,6 +1,10 @@
 
 
 
+
+
+
+
 # Still Awake — Game Mechanics & Environment Tech Demo
 
 A stylized 3D playable tech demo and environment prototype built in Unity. This project focuses on atmospheric lighting, interactive environment mechanics, and top-down / isometric camera controls.
@@ -13,6 +17,10 @@ A stylized 3D playable tech demo and environment prototype built in Unity. This 
 <img width="1110" height="612" alt="game4" src="https://github.com/user-attachments/assets/0fe6008d-0427-4fde-a34c-e843cc46a847" />
 <img width="789" height="342" alt="game6" src="https://github.com/user-attachments/assets/23e536a4-3670-45a0-93e8-afe9197788f0" />
 <img width="1109" height="590" alt="game9" src="https://github.com/user-attachments/assets/757476b9-3611-4eee-9223-96d5d49f3c00" />
+<img width="1109" height="590" alt="game7" src="https://github.com/user-attachments/assets/4a9cbab1-7629-4ab1-8190-716315704804" />
+<img width="1109" height="590" alt="game8" src="https://github.com/user-attachments/assets/9ebdc574-f36e-433a-af1e-7f3135f66394" />
+
+
 
 
 
