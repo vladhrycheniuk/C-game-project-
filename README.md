@@ -1,4 +1,4 @@
-<img width="1109" height="590" alt="game9" src="https://github.com/user-attachments/assets/757476b9-3611-4eee-9223-96d5d49f3c00" />
+
 
 
 # Still Awake — Game Mechanics & Environment Tech Demo
@@ -12,9 +12,10 @@ A stylized 3D playable tech demo and environment prototype built in Unity. This 
 <!-- You can drag and drop your images or GIFs directly here in GitHub editor -->
 <img width="1110" height="612" alt="game4" src="https://github.com/user-attachments/assets/0fe6008d-0427-4fde-a34c-e843cc46a847" />
 <img width="789" height="342" alt="game6" src="https://github.com/user-attachments/assets/23e536a4-3670-45a0-93e8-afe9197788f0" />
-![Uploading game7.gif…]()
+<img width="1109" height="590" alt="game9" src="https://github.com/user-attachments/assets/757476b9-3611-4eee-9223-96d5d49f3c00" />
 ![Uploading game8.gif…]()
-![Uploading game9.gif…]()
+![Uploading game7.gif…]()
+
 
 ---
 
