@@ -1,6 +1,5 @@
 
-<img width="1110" height="612" alt="game4" src="https://github.com/user-attachments/assets/0fe6008d-0427-4fde-a34c-e843cc46a847" />
-<img width="789" height="342" alt="game6" src="https://github.com/user-attachments/assets/23e536a4-3670-45a0-93e8-afe9197788f0" />
+
 
 # Still Awake — Game Mechanics & Environment Tech Demo
 
@@ -11,9 +10,8 @@ A stylized 3D playable tech demo and environment prototype built in Unity. This 
 ## 📸 Screenshots & Media
 
 <!-- You can drag and drop your images or GIFs directly here in GitHub editor -->
-![Gameplay Screenshot 1](https://via.placeholder.com/800x450?text=Drag+and+drop+your+screenshot+here)
-![Gameplay Screenshot 2](https://via.placeholder.com/800x450?text=Drag+and+drop+your+screenshot+here)
-
+<img width="1110" height="612" alt="game4" src="https://github.com/user-attachments/assets/0fe6008d-0427-4fde-a34c-e843cc46a847" />
+<img width="789" height="342" alt="game6" src="https://github.com/user-attachments/assets/23e536a4-3670-45a0-93e8-afe9197788f0" />
 ---
 
 ## 🎮 Key Features & Mechanics
