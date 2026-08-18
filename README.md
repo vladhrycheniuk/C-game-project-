@@ -32,7 +32,7 @@ A stylized 3D playable tech demo and environment prototype built in Unity. This 
 * **Movement System:** Character movement and navigation controls.
 * **Interactive Lighting:** Dynamic evening/night lighting setup with toggleable lamps and light sources.
 * **Interactive Book & UI:** Desk book item that opens with an animated text reveal effect.
-* **Interactive Doors:** Custom saloon / tavern-style double doors with interaction logic.
+* **Interactive Doors:** Custom saloon / tavern-style doors with interaction logic.
 * **Reflective Surfaces:** Functional mirror setup with real-time reflections.
 * **Environment & Audio:** Fully decorated house interior featuring custom atmospheric lighting and background music.
 
