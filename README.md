@@ -46,7 +46,9 @@ A stylized 3D playable tech demo and environment prototype built in Unity. This 
 
 ---
 
-## 🚀 How to Play / Run
+## 🎮 Browser Demo
 
-1. **Playable Build:** Check the [Releases](../../releases) tab on the right to download the latest `.zip` archive, extract it, and run the `.exe` file.
-2. **Project Source:** Open the project folder in Unity to inspect the scripts, shaders, and scene hierarchy.
+You can try out the demo version of the game directly in your browser:
+👉 **[Play Demo on itch.io](https://vgrycheniuk.itch.io/still-awake)**
+
+> **Note:** In the browser version, the book (UI) may display incorrectly due to WebGL resolution limitations.
